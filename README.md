@@ -45,8 +45,3 @@ Hola, soy Dev react front end, de Argentina!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinGramajo&layout=compact&theme=radical)](https://github.com/MartinGramajo)
 
-
-#### 🌐 Conecta conmigo
-
-- **LinkedIn:** [https://www.linkedin.com/in/martin-gramajo/](https://www.linkedin.com/in/martin-gramajo/)
-- **Portafolio:** [https://martingramajo.vercel.app/](https://martingramajo.vercel.app/)
